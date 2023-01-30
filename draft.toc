@@ -1,15 +1,27 @@
 \contentsline {section}{\numberline {1}はじめに}{1}{}%
 \contentsline {section}{\numberline {2}準備}{2}{}%
-\contentsline {subsection}{\numberline {2.1}自動プログラム生成の流れ}{2}{}%
-\contentsline {subsection}{\numberline {2.2}既存のAPRツールの課題}{2}{}%
-\contentsline {section}{\numberline {3}提案手法}{3}{}%
-\contentsline {subsection}{\numberline {3.1}APRツールへの時間計測機能実装}{3}{}%
-\contentsline {subsection}{\numberline {3.2}評価指標}{3}{}%
-\contentsline {subsubsection}{\numberline {3.2.1}FTR}{3}{}%
-\contentsline {subsection}{\numberline {3.3}}{3}{}%
-\contentsline {section}{\numberline {4}実験}{5}{}%
-\contentsline {subsection}{\numberline {4.1}概要}{5}{}%
-\contentsline {section}{\numberline {5}考察}{6}{}%
-\contentsline {section}{\numberline {6}妥当性の脅威}{7}{}%
-\contentsline {section}{\numberline {7}おわりに}{8}{}%
-\contentsline {section}{謝辞}{9}{}%
+\contentsline {subsection}{\numberline {2.1}自動プログラム修正(APR)}{2}{}%
+\contentsline {subsection}{\numberline {2.2}遺伝的アルゴリズム}{2}{}%
+\contentsline {subsection}{\numberline {2.3}既存のAPRツールの課題}{3}{}%
+\contentsline {subsection}{\numberline {2.4}時間的コスト調査の先行研究}{3}{}%
+\contentsline {section}{\numberline {3}評価指標とその実装}{4}{}%
+\contentsline {subsection}{\numberline {3.1}評価指標}{4}{}%
+\contentsline {subsubsection}{\numberline {3.1.1}STR}{4}{}%
+\contentsline {subsubsection}{\numberline {3.1.2}FTR}{4}{}%
+\contentsline {subsection}{\numberline {3.2}STR・FTRの具体的な計算例}{4}{}%
+\contentsline {subsection}{\numberline {3.3}APRツールへの時間計測機能実装}{6}{}%
+\contentsline {section}{\numberline {4}実験}{8}{}%
+\contentsline {subsection}{\numberline {4.1}概要}{8}{}%
+\contentsline {subsection}{\numberline {4.2}実験結果}{8}{}%
+\contentsline {subsubsection}{\numberline {4.2.1}Lang6}{9}{}%
+\contentsline {subsubsection}{\numberline {4.2.2}Lang22}{9}{}%
+\contentsline {subsubsection}{\numberline {4.2.3}Lang25}{10}{}%
+\contentsline {subsubsection}{\numberline {4.2.4}Lang39}{11}{}%
+\contentsline {section}{\numberline {5}考察}{14}{}%
+\contentsline {section}{\numberline {6}妥当性の脅威}{15}{}%
+\contentsline {section}{\numberline {7}今後の課題}{16}{}%
+\contentsline {subsection}{\numberline {7.1}APRツールによる生成時間の違いの検証}{16}{}%
+\contentsline {subsection}{\numberline {7.2}時間計測を行う対象プロジェクトの拡張}{16}{}%
+\contentsline {section}{\numberline {8}おわりに}{17}{}%
+\contentsline {section}{謝辞}{18}{}%
+\contentsline {section}{参考文献}{19}{}%

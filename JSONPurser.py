@@ -14,10 +14,15 @@ class MyJSONPurser:
     def reset(self):
         self.data = None
         self.time_total = 0
-        self.time_failure = 0    
+        self.time_failure = 0
+        self.solution_id = -1
+        self.solution_time = -1
+        self.ftr = 0
+        self.soltr = -1.0
     def purse(self, input, output):
         #f = open(input, 'r', encoding='utf-8')
         #for utf-8
+        self.reset()
         f = open(input, 'r')
         self.data = json.load(f)
         self.gen_number = len(self.data["variants"])
@@ -93,12 +98,18 @@ class MyJSONPurser:
 #            return time
 
 # dict.info[2] = {"time" : int(data['variants'][2]['generationTime'])}
-
+# Lang6 : 100 runs
+# Lang10 : ?? runs
+# Lang22 : 15 runs
+# Lang25 : ?? runs
+# Lang39 : 50 runs
 instance = MyJSONPurser()
-out2 = open("C:/Users/yuuki/Downloads/build/fuga/summary.txt", 'w')
+num = 39
+run = 10
+out2 = open("C:/Users/yuuki/Downloads/build/fuga/summary"+str(num)+".txt", 'w')
 #instance.purse("C:/Users/yuuki/Downloads/build/fuga/Lang6-mini.json", "C:/Users/yuuki/Downloads/build/fuga/result.txt")
-for k in range(1,42):
-    instance.purse("C:/Users/yuuki/Downloads/build/fuga/Lang"+str(k)+"-mini.json", "C:/Users/yuuki/Downloads/build/fuga/result"+str(k)+".txt")
+for k in range(1,run + 1):
+    instance.purse("C:/Users/yuuki/Downloads/build/fuga/Lang"+str(num)+"_"+str(k)+".json", "C:/Users/yuuki/Downloads/build/fuga/result"+str(num)+"_"+str(k)+".txt")
     out2.write(str(k) + " " + str(instance.ftr)+" "+str(instance.soltr)+"\n")
     
 
