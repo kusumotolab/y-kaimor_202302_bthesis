@@ -1,0 +1,87 @@
+\begin{thebibliography}{10}
+
+\bibitem{5386906}
+B.~Hailpern and P.~Santhanam.
+\newblock Software debugging, testing, and verification.
+\newblock {\em IBM Systems Journal}, Vol.~41, No.~1, pp. 4--12, 2002.
+
+\bibitem{Britton_reversibledebugging}
+Tom Britton, Lisa Jeng, Graham Carver, and Paul Cheak.
+\newblock Quantify the time and cost saved using reversible debuggers.
+\newblock Technical report, Cambridge Judge Business School, 2012.
+
+\bibitem{gazzola2018automatic}
+Luca Gazzola, Daniela Micucci, and Leonardo Mariani.
+\newblock Automatic software repair: A survey.
+\newblock In {\em Proceedings of the 40th International Conference on Software
+  Engineering}, pp. 1219--1219, 2018.
+
+\bibitem{goues2019automated}
+Claire~Le Goues, Michael Pradel, and Abhik Roychoudhury.
+\newblock Automated program repair.
+\newblock {\em Communications of the ACM}, Vol.~62, No.~12, pp. 56--65, 2019.
+
+\bibitem{id692}
+古藤寛大, 肥後芳樹, \UTF{67D7}本真佑, 楠本真二.
+\newblock 変更コード片の動的切替による自動プログラム修正のビルド時間削減の試み.
+\newblock 電子情報通信学会技術研究報告, Vol. 120, No. 407, pp. 19--24, 2 2021.
+
+\bibitem{le2011genprog}
+Claire~Le Goues, ThanhVu Nguyen, Stephanie Forrest, and Westley Weimer.
+\newblock {GenProg: A Generic Method for Automatic Software Repair}.
+\newblock {\em IEEE Transactions on Software Engineering}, Vol.~38, No.~1, pp.
+  54--72, 2012.
+
+\bibitem{martinez2019astor}
+Matias Martinez and Martin Monperrus.
+\newblock Astor: Exploring the design space of generate-and-validate program
+  repair beyond genprog.
+\newblock {\em Journal of Systems and Software}, Vol. 151, pp. 65--80, 2019.
+
+\bibitem{le2013current}
+Claire Le~Goues, Stephanie Forrest, and Westley Weimer.
+\newblock Current challenges in automatic software repair.
+\newblock {\em Software quality journal}, Vol.~21, pp. 421--443, 2013.
+
+\bibitem{smith2015cure}
+Edward~K Smith, Earl~T Barr, Claire Le~Goues, and Yuriy Brun.
+\newblock Is the cure worse than the disease? overfitting in automated program
+  repair.
+\newblock In {\em Proceedings of the 2015 10th Joint Meeting on Foundations of
+  Software Engineering}, pp. 532--543, 2015.
+
+\bibitem{chen2017contract}
+Liushan Chen, Yu~Pei, and Carlo~A Furia.
+\newblock Contract-based program repair without the contracts.
+\newblock In {\em 2017 32nd IEEE/ACM International Conference on Automated
+  Software Engineering (ASE)}, pp. 637--647. IEEE, 2017.
+
+\bibitem{ghanbari2019practical}
+Ali Ghanbari, Samuel Benton, and Lingming Zhang.
+\newblock Practical program repair via bytecode mutation.
+\newblock In {\em Proceedings of the 28th ACM SIGSOFT International Symposium
+  on Software Testing and Analysis}, pp. 19--30, 2019.
+
+\bibitem{tomida2019visualizing}
+Yuya Tomida, Yoshiki Higo, Shinsuke Matsumoto, and Shinji Kusumoto.
+\newblock Visualizing code genealogy: How code is evolutionarily fixed in
+  program repair?
+\newblock In {\em 2019 working conference on software visualization (VISSOFT)},
+  pp. 23--27. IEEE, 2019.
+
+\bibitem{higo2018kgenprog}
+Y.~{Higo}, S.~{Matsumoto}, R.~{Arima}, A.~{Tanikado}, K.~{Naitou},
+  J.~{Matsumoto}, Y.~{Tomida}, and S.~{Kusumoto}.
+\newblock {kGenProg: A High-Performance, High-Extensibility and
+  High-Portability APR System}.
+\newblock In {\em Proc. Asia-Pacific Software Engineering Conference}, pp.
+  697--698, 2018.
+
+\bibitem{just2014defects4j}
+Ren{\'e} Just, Darioush Jalali, and Michael~D Ernst.
+\newblock Defects4j: A database of existing faults to enable controlled testing
+  studies for java programs.
+\newblock In {\em Proceedings of the 2014 international symposium on software
+  testing and analysis}, pp. 437--440, 2014.
+
+\end{thebibliography}

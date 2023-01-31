@@ -1,0 +1,572 @@
+This is e-upTeX, Version 3.141592653-p4.0.0-u1.28-220214-2.6 (utf8.uptex) (TeX Live 2022) (preloaded format=uplatex 2022.10.2)  31 JAN 2023 01:19
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**y-kaimor_bthesis_ver2.tex
+(./y-kaimor_bthesis_ver2.tex
+pLaTeX2e <2021-11-15u04> (based on LaTeX2e <2022-06-01> patch level 5)
+L3 programming layer <2022-09-28>
+(c:/texlive/2022/texmf-dist/tex/latex/plautopatch/plautopatch.sty
+Package: plautopatch 2021/12/07 v0.9q Automated patches for pLaTeX/upLaTeX
+)
+(c:/texlive/2022/texmf-dist/tex/platex/jsclasses/jsarticle.cls
+Document Class: jsarticle 2022/09/13 jsclasses (okumura, texjporg)
+\jsc@mpt=\dimen154
+\jsc@mmm=\dimen155
+\jsc@smallskipamount=\skip47
+LaTeX Info: Redefining \textmc on input line 500.
+LaTeX Info: Redefining \textgt on input line 502.
+\symmincho=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY2/mc/m/n --> JY2/gt/m/n on input line 564.
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 9.24683pt on input line 758.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 9.24683pt on input line 758.
+\fullwidth=\dimen156
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 7.39746pt on input line 911.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 7.39746pt on input line 911.
+\c@part=\count184
+\c@section=\count185
+\c@subsection=\count186
+\c@subsubsection=\count187
+\c@paragraph=\count188
+\c@subparagraph=\count189
+\@abstractbox=\box68
+\c@figure=\count190
+\c@table=\count191
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\jsc@tocl@width=\dimen157
+\@lnumwidth=\dimen158
+\bibindent=\dimen159
+(c:/texlive/2022/texmf-dist/tex/platex/jsclasses/jslogo.sty
+Package: jslogo 2019/07/25 okumura, texjporg
+LaTeX Info: Redefining \TeX on input line 82.
+LaTeX Info: Redefining \LaTeX on input line 135.
+LaTeX Info: Redefining \LaTeXe on input line 188.
+)
+\heisei=\count192
+) (./ics-thesis.sty
+Master/Bachelor Thesis Style for Dept. of I.C.S., Osaka Univ.
+\nendo=\count193
+\curmin=\count194
+\hour=\count195
+\onehour=\count196
+\curhour=\count197
+) (c:/texlive/2022/texmf-dist/tex/platex/japanese-otf/otf.sty
+Package: otf 2022/03/05 TeX JP org, v1.7b8 psitau, u0.27 ttk
+
+(c:/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+LaTeX Font Info:    Redeclaring symbol font `mincho' on input line 322.
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `normal'
+(Font)                  JY2/mc/m/n --> JY2/hmc/m/n on input line 322.
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY2/gt/m/n --> JY2/hmc/m/n on input line 322.
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY2/hmc/m/n --> JY2/hmc/bx/n on input line 324.
+LaTeX Font Info:    Redeclaring math alphabet \mathgt on input line 325.
+LaTeX Font Info:    Overwriting math alphabet `\mathgt' in version `normal'
+(Font)                  JY2/gt/m/n --> JY2/hgt/m/n on input line 325.
+LaTeX Font Info:    Overwriting math alphabet `\mathgt' in version `bold'
+(Font)                  JY2/gt/m/n --> JY2/hgt/m/n on input line 325.
+LaTeX Font Info:    Overwriting math alphabet `\mathgt' in version `bold'
+(Font)                  JY2/hgt/m/n --> JY2/hgt/bx/n on input line 326.
+
+(c:/texlive/2022/texmf-dist/tex/platex/japanese-otf/ajmacros.sty
+Package: ajmacros 2019/04/01 21:00 iNOUE Koich! <inoue@ma.ns.musashi-tech.ac.jp
+>
+\@tempcntc=\count198
+\@tempcntd=\count199
+\@tempcnte=\count266
+\@tempcntf=\count267
+))
+(c:/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(c:/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvipdfmx.def on input line 107.
+
+(c:/texlive/2022/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+File: dvipdfmx.def 2022/09/22 v5.0m Graphics/color driver for dvipdfmx
+\stockwidth=\dimen160
+\stockheight=\dimen161
+))
+\Gin@req@height=\dimen162
+\Gin@req@width=\dimen163
+)
+(c:/texlive/2022/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(c:/texlive/2022/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip50
+\multirow@cntb=\count268
+\multirow@dima=\skip51
+\bigstrutjot=\dimen164
+)
+(c:/texlive/2022/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(c:/texlive/2022/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks18
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(c:/texlive/2022/texmf-dist/tex/latex/tools/array.sty
+Package: array 2022/03/10 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen165
+\ar@mcellbox=\box69
+\extrarowheight=\dimen166
+\NC@list=\toks19
+\extratabsurround=\skip52
+\backup@length=\skip53
+\ar@cellbox=\box70
+)
+(c:/texlive/2022/texmf-dist/tex/latex/platex-tools/plarray.sty
+Package: plarray 2021/12/11 v0.1i Tabular extension package for pLaTeX/upLaTeX
+)
+(c:/texlive/2022/texmf-dist/tex/latex/arydshln/arydshln.sty
+Package: arydshln 2019/02/21 v1.76 
+\dashlinedash=\dimen167
+\dashlinegap=\dimen168
+\adl@box=\box71
+\adl@height=\dimen169
+\adl@heightsave=\dimen170
+\adl@depth=\dimen171
+\adl@depthsave=\dimen172
+\adl@finaldepth=\dimen173
+\adl@columns=\count269
+\adl@ncol=\count270
+\adl@currentcolumn=\count271
+\adl@currentcolumnsave=\count272
+\adl@totalheight=\count273
+\adl@totalheightsave=\count274
+\adl@dash=\count275
+\adl@gap=\count276
+\adl@cla=\count277
+\adl@clb=\count278
+\adl@everyvbox=\toks20
+\adl@LTpagetotal=\dimen174
+)
+(c:/texlive/2022/texmf-dist/tex/latex/plautopatch/plarydshln.sty
+Package: plarydshln 2018/10/20 v0.4 arydshln package for pLaTeX/upLaTeX
+)
+(c:/texlive/2022/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count279
+\lst@gtempboxa=\box72
+\lst@token=\toks21
+\lst@length=\count280
+\lst@currlwidth=\dimen175
+\lst@column=\count281
+\lst@pos=\count282
+\lst@lostspace=\dimen176
+\lst@width=\dimen177
+\lst@newlines=\count283
+\lst@lineno=\count284
+\lst@maxwidth=\dimen178
+
+(c:/texlive/2022/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count285
+\lst@skipnumbers=\count286
+\lst@framebox=\box73
+)
+(c:/texlive/2022/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(c:/texlive/2022/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(c:/texlive/2022/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: dvipdfmx.def on input line 227.
+
+(c:/texlive/2022/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+
+(c:/texlive/2022/texmf-dist/tex/latex/xcolor/svgnam.def
+File: svgnam.def 2022/06/12 v2.14 Predefined colors according to SVG 1.1 (UK)
+))
+(c:/texlive/2022/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+(c:/texlive/2022/texmf-dist/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(c:/texlive/2022/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+\caption@tempdima=\dimen179
+\captionmargin=\dimen180
+\caption@leftmargin=\dimen181
+\caption@rightmargin=\dimen182
+\caption@width=\dimen183
+\caption@indent=\dimen184
+\caption@parindent=\dimen185
+\caption@hangindent=\dimen186
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+Package caption Info: \@makecaption = \long macro:#1#2->{\small \advance \lefts
+kip .0628\linewidth \advance \rightskip .0628\linewidth \vskip \abovecaptionski
+p \sbox \@tempboxa {#1\hskip 1zw\relax #2}\ifdim \wd \@tempboxa <\hsize \center
+ing \fi #1{\hskip 1zw\relax }#2\par \vskip \belowcaptionskip } on input line 11
+76.
+)
+\c@KVtest=\count287
+\sf@farskip=\skip54
+\sf@captopadj=\dimen187
+\sf@capskip=\skip55
+\sf@nearskip=\skip56
+\c@subfigure=\count288
+\c@subfigure@save=\count289
+\c@lofdepth=\count290
+\c@subtable=\count291
+\c@subtable@save=\count292
+\c@lotdepth=\count293
+\sf@top=\skip57
+\sf@bottom=\skip58
+)
+(c:/texlive/2022/texmf-dist/tex/latex/dblfloatfix/dblfloatfix.sty
+Package: dblfloatfix 2012/12/31 v1.0a (JAW)
+
+(c:/texlive/2022/texmf-dist/tex/latex/base/fixltx2e.sty
+Package: fixltx2e 2016/12/29 v2.1a fixes to LaTeX (obsolete)
+Applying: [2015/01/01] Old fixltx2e package on input line 46.
+
+
+Package fixltx2e Warning: fixltx2e is not required with releases after 2015
+(fixltx2e)                All fixes are now in the LaTeX kernel.
+(fixltx2e)                See the latexrelease package for details.
+
+Already applied: [0000/00/00] Old fixltx2e package on input line 53.
+)
+\@dblbotnum=\count294
+\c@dblbotnumber=\count295
+) (c:/texlive/2022/texmf-dist/tex/latex/ascmac/ascmac.sty
+Package: ascmac 2020/01/15 v2.1 ascmac wrapper (community edition) 
+
+(c:/texlive/2022/texmf-dist/tex/latex/ascmac/tascmac.sty
+Package: tascmac 2020/01/15 v2.1 ascmac package (community edition) 
+\@savetbaselineshift=\dimen188
+\@saveybaselineshift=\dimen189
+\scb@x=\box74
+\scscb@x=\box75
+\@bw=\dimen190
+\@nbox=\box76
+\@nbody=\box77
+\@scw=\dimen191
+\ascmac@hoboxa=\box78
+\ascmac@hoboxb=\box79
+\@itemh=\dimen192
+\@iboxpos=\toks22
+\@iboxstr=\box80
+\@bwsp=\box81
+\@@bwsp=\box82
+\@bcal=\count296
+\shaderule=\dimen193
+))
+(c:/texlive/2022/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+(c:/texlive/2022/texmf-dist/tex/latex/platex-tools/pxxspace.sty
+Package: pxxspace 2019/09/23 v0.2a Patch for xspace for pLaTeX/upLaTeX
+
+(c:/texlive/2022/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count297
+)
+(c:/texlive/2022/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(c:/texlive/2022/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(c:/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+(c:/texlive/2022/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+))
+\c@fcounter=\count298
+LaTeX Font Info:    Font shape `JT2/hmc/m/n' will be
+(Font)              scaled to size 9.24683pt on input line 88.
+LaTeX Font Info:    Font shape `JY2/hmc/m/n' will be
+(Font)              scaled to size 9.24683pt on input line 88.
+
+(c:/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-dvipdfmx.def
+File: l3backend-dvipdfmx.def 2022-09-28 L3 backend support: dvipdfmx
+\g__graphics_track_int=\count299
+\l__pdf_internal_box=\box83
+\g__pdf_backend_object_int=\count300
+\g__pdf_backend_annotation_int=\count301
+\g__pdf_backend_link_int=\count302
+)
+(./y-kaimor_bthesis_ver2.aux)
+\openout1 = `y-kaimor_bthesis_ver2.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for JY2/mc/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for JT2/mc/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+\c@lstlisting=\count303
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Font shape `JT2/hmc/m/n' will be
+(Font)              scaled to size 13.31541pt on input line 90.
+LaTeX Font Info:    Font shape `JY2/hmc/m/n' will be
+(Font)              scaled to size 13.31541pt on input line 90.
+LaTeX Font Info:    Font shape `JT2/hmc/bx/n' in size <14.4> not available
+(Font)              Font shape `JT2/hgt/m/n' tried instead on input line 90.
+LaTeX Font Info:    Font shape `JT2/hgt/m/n' will be
+(Font)              scaled to size 13.31541pt on input line 90.
+LaTeX Font Info:    Font shape `JY2/hmc/bx/n' in size <14.4> not available
+(Font)              Font shape `JY2/hgt/m/n' tried instead on input line 90.
+LaTeX Font Info:    Font shape `JY2/hgt/m/n' will be
+(Font)              scaled to size 13.31541pt on input line 90.
+LaTeX Font Info:    Font shape `JT2/hmc/m/n' will be
+(Font)              scaled to size 11.09619pt on input line 90.
+LaTeX Font Info:    Font shape `JY2/hmc/m/n' will be
+(Font)              scaled to size 11.09619pt on input line 90.
+ [0
+
+]
+LaTeX Font Info:    Font shape `JT2/hmc/bx/n' in size <12> not available
+(Font)              Font shape `JT2/hgt/m/n' tried instead on input line 93.
+LaTeX Font Info:    Font shape `JT2/hgt/m/n' will be
+(Font)              scaled to size 11.09619pt on input line 93.
+LaTeX Font Info:    Font shape `JY2/hmc/bx/n' in size <12> not available
+(Font)              Font shape `JY2/hgt/m/n' tried instead on input line 93.
+LaTeX Font Info:    Font shape `JY2/hgt/m/n' will be
+(Font)              scaled to size 11.09619pt on input line 93.
+LaTeX Font Info:    Font shape `JT2/hmc/bx/n' in size <10> not available
+(Font)              Font shape `JT2/hgt/m/n' tried instead on input line 104.
+LaTeX Font Info:    Font shape `JT2/hgt/m/n' will be
+(Font)              scaled to size 9.24683pt on input line 104.
+LaTeX Font Info:    Font shape `JY2/hmc/bx/n' in size <10> not available
+(Font)              Font shape `JY2/hgt/m/n' tried instead on input line 104.
+LaTeX Font Info:    Font shape `JY2/hgt/m/n' will be
+(Font)              scaled to size 9.24683pt on input line 104.
+ [1] (./y-kaimor_bthesis_ver2.toc
+LaTeX Font Info:    Font shape `JY2/hmc/m/n' will be
+(Font)              scaled to size 6.47278pt on input line 3.
+LaTeX Font Info:    Font shape `JY2/hmc/m/n' will be
+(Font)              scaled to size 4.62341pt on input line 3.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
+
+(c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
+
+(c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
+\tf@toc=\write3
+\openout3 = `y-kaimor_bthesis_ver2.toc'.
+
+ [1
+
+]
+(./y-kaimor_bthesis_ver2.lof)
+\tf@lof=\write4
+\openout4 = `y-kaimor_bthesis_ver2.lof'.
+
+ [2
+
+] (./y-kaimor_bthesis_ver2.lot)
+\tf@lot=\write5
+\openout5 = `y-kaimor_bthesis_ver2.lot'.
+
+ [3
+
+]
+
+LaTeX Warning: Reference `sec:cons' on page 1 undefined on input line 139.
+
+
+LaTeX Warning: Reference `sec:threat' on page 1 undefined on input line 140.
+
+
+LaTeX Warning: Reference `sec:concl' on page 1 undefined on input line 142.
+
+[1
+
+
+]
+LaTeX Font Info:    Font shape `JT2/hmc/m/n' will be
+(Font)              scaled to size 6.47278pt on input line 149.
+LaTeX Font Info:    Font shape `JT2/hmc/m/n' will be
+(Font)              scaled to size 7.39746pt on input line 149.
+LaTeX Font Info:    Font shape `JY2/hmc/m/n' will be
+(Font)              scaled to size 7.39746pt on input line 149.
+LaTeX Font Info:    Font shape `JY2/hmc/m/n' will be
+(Font)              scaled to size 5.5481pt on input line 149.
+LaTeX Font Info:    Font shape `JT2/hmc/m/n' will be
+(Font)              scaled to size 5.5481pt on input line 149.
+File: fig/apr.png Graphic file (type bmp)
+<fig/apr.png>
+LaTeX Font Info:    Font shape `JT2/hmc/m/n' will be
+(Font)              scaled to size 8.32214pt on input line 154.
+LaTeX Font Info:    Font shape `JY2/hmc/m/n' will be
+(Font)              scaled to size 8.32214pt on input line 154.
+ [2
+
+]
+File: fig/ga.png Graphic file (type bmp)
+<fig/ga.png>
+ [3] [4] [5
+
+]
+File: fig/astSample.pdf Graphic file (type pdf)
+<fig/astSample.pdf>
+File: fig/astSample_STR.pdf Graphic file (type pdf)
+<fig/astSample_STR.pdf>
+ [6
+
+] [7] [8] [9]
+File: fig/Lang6_boxplot.png Graphic file (type bmp)
+<fig/Lang6_boxplot.png>
+File: fig/Lang6_boxplot_STR.png Graphic file (type bmp)
+<fig/Lang6_boxplot_STR.png>
+File: fig/Lang6_boxplot_FTR.png Graphic file (type bmp)
+<fig/Lang6_boxplot_FTR.png>
+ [10
+
+]
+File: fig/Lang22_boxplot.png Graphic file (type bmp)
+<fig/Lang22_boxplot.png>
+File: fig/Lang22_boxplot_STR.png Graphic file (type bmp)
+<fig/Lang22_boxplot_STR.png>
+File: fig/Lang22_boxplot_FTR.png Graphic file (type bmp)
+<fig/Lang22_boxplot_FTR.png>
+File: fig/Lang25_boxplot.png Graphic file (type bmp)
+<fig/Lang25_boxplot.png>
+File: fig/Lang25_boxplot_STR.png Graphic file (type bmp)
+<fig/Lang25_boxplot_STR.png>
+File: fig/Lang25_boxplot_FTR.png Graphic file (type bmp)
+<fig/Lang25_boxplot_FTR.png>
+ [11]
+File: fig/Lang39_boxplot.png Graphic file (type bmp)
+<fig/Lang39_boxplot.png>
+File: fig/Lang39_boxplot_STR.png Graphic file (type bmp)
+<fig/Lang39_boxplot_STR.png>
+File: fig/Lang39_boxplot_FTR.png Graphic file (type bmp)
+<fig/Lang39_boxplot_FTR.png>
+ [12] [13] [14] [15]
+File: fig/summary_STR.png Graphic file (type bmp)
+<fig/summary_STR.png>
+File: fig/summary_FTR.png Graphic file (type bmp)
+<fig/summary_FTR.png>
+ [16
+
+] [17
+
+]
+[18
+
+] [19
+
+] [20
+
+] (./y-kaimor_bthesis_ver2.bbl
+LaTeX Font Info:    Kanji font shape `JY2/hgt/m/it' undefined
+(Font)              No change on input line 6.
+LaTeX Font Info:    Kanji font shape `JY2/hgt/m/it' undefined
+(Font)              No change on input line 16.
+LaTeX Font Info:    Kanji font shape `JY2/hgt/m/it' undefined
+(Font)              No change on input line 22.
+LaTeX Font Info:    Font shape `JT2/utfj/m/-' will be
+(Font)              scaled to size 9.24683pt on input line 25.
+LaTeX Font Info:    Font shape `JY2/utfj/m/-' will be
+(Font)              scaled to size 9.24683pt on input line 25.
+LaTeX Font Info:    Kanji font shape `JY2/hgt/m/it' undefined
+(Font)              No change on input line 32.
+LaTeX Font Info:    Kanji font shape `JY2/hgt/m/it' undefined
+(Font)              No change on input line 39.
+LaTeX Font Info:    Kanji font shape `JY2/hgt/m/it' undefined
+(Font)              No change on input line 44.
+LaTeX Font Info:    Kanji font shape `JY2/hgt/m/it' undefined
+(Font)              No change on input line 50.
+LaTeX Font Info:    Kanji font shape `JY2/hgt/m/it' undefined
+(Font)              No change on input line 56.
+LaTeX Font Info:    Kanji font shape `JY2/hgt/m/it' undefined
+(Font)              No change on input line 62.
+LaTeX Font Info:    Kanji font shape `JY2/hgt/m/it' undefined
+(Font)              No change on input line 69.
+ [21
+
+]
+LaTeX Font Info:    Kanji font shape `JY2/hgt/m/it' undefined
+(Font)              No change on input line 77.
+LaTeX Font Info:    Kanji font shape `JY2/hgt/m/it' undefined
+(Font)              No change on input line 84.
+)
+***** List of packages loaded by `plautopatch': *****
+ plarray, plarydshln, pxxspace.
+*****************************************************
+[22] (./y-kaimor_bthesis_ver2.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 8338 strings out of 475522
+ 131923 string characters out of 5794028
+ 483147 words of memory out of 5000000
+ 29839 multiletter control sequences out of 15000+600000
+ 483438 words of font info for 103 fonts, out of 8000000 for 9000
+ 934 hyphenation exceptions out of 8191
+ 68i,12n,76p,796b,1023s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on y-kaimor_bthesis_ver2.dvi (27 pages, 60392 bytes).
