@@ -1,0 +1,15 @@
+### OUTPUT ###
+ID#1 : time : 413, Operation : delete, fitness : -1.0
+ID#2 : time : 125, Operation : delete, fitness : -1.0
+ID#3 : time : 198, Operation : replace, fitness : -1.0
+ID#4 : time : 13, Operation : delete, fitness : -1.0
+ID#5 : time : 97, Operation : insert_before, fitness : -1.0
+ID#6 : time : 136, Operation : insert_before, fitness : -1.0
+ID#7 : time : 96, Operation : replace, fitness : -1.0
+ID#8 : time : 999, Operation : replace, fitness : 1.0
+### Failure Time Ratio ###
+FTR:0.519017814155(1078/2077)
+failure variants:0.875(7/8)
+### Solution Time Ratio ###
+the solution ID : 8
+STR:0.480982185845(999/2077)

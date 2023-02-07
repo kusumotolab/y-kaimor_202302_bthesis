@@ -1,0 +1,45 @@
+### OUTPUT ###
+ID#1 : time : 171, Operation : delete, fitness : -1.0
+ID#2 : time : 10, Operation : delete, fitness : -1.0
+ID#3 : time : 115, Operation : replace, fitness : -1.0
+ID#4 : time : 59, Operation : insert_after, fitness : -1.0
+ID#5 : time : 54, Operation : replace, fitness : -1.0
+ID#6 : time : 59, Operation : replace, fitness : -1.0
+ID#7 : time : 59, Operation : replace, fitness : -1.0
+ID#8 : time : 8, Operation : delete, fitness : -1.0
+ID#9 : time : 59, Operation : insert_after, fitness : -1.0
+ID#10 : time : 50, Operation : replace, fitness : -1.0
+ID#11 : time : 67, Operation : insert_before, fitness : -1.0
+ID#12 : time : 81, Operation : insert_before, fitness : -1.0
+ID#13 : time : 4, Operation : delete, fitness : -1.0
+ID#14 : time : 73, Operation : insert_after, fitness : -1.0
+ID#15 : time : 10, Operation : delete, fitness : -1.0
+ID#16 : time : 54, Operation : insert_after, fitness : -1.0
+ID#17 : time : 40, Operation : replace, fitness : -1.0
+ID#18 : time : 58, Operation : replace, fitness : -1.0
+ID#19 : time : 68, Operation : insert_after, fitness : -1.0
+ID#20 : time : 59, Operation : insert_before, fitness : -1.0
+ID#21 : time : 3, Operation : delete, fitness : -1.0
+ID#22 : time : 46, Operation : replace, fitness : -1.0
+ID#23 : time : 41, Operation : replace, fitness : -1.0
+ID#24 : time : 7, Operation : delete, fitness : -1.0
+ID#25 : time : 3, Operation : delete, fitness : -1.0
+ID#26 : time : 4, Operation : delete, fitness : -1.0
+ID#27 : time : 3, Operation : delete, fitness : -1.0
+ID#28 : time : 5, Operation : insert_after, fitness : -1.0
+ID#29 : time : 32, Operation : replace, fitness : -1.0
+ID#30 : time : 26, Operation : insert_after, fitness : -1.0
+ID#31 : time : 29, Operation : insert_after, fitness : -1.0
+ID#32 : time : 4, Operation : delete, fitness : -1.0
+ID#33 : time : 33, Operation : replace, fitness : -1.0
+ID#34 : time : 26, Operation : insert_after, fitness : -1.0
+ID#35 : time : 36, Operation : insert_before, fitness : -1.0
+ID#36 : time : 36, Operation : insert_before, fitness : -1.0
+ID#37 : time : 171, Operation : insert_before, fitness : 0.666666666667
+ID#38 : time : 157, Operation : replace, fitness : 1.0
+### Failure Time Ratio ###
+FTR:0.81978021978(1492/1820)
+failure variants:0.947368421053(36/38)
+### Solution Time Ratio ###
+the solution ID : 38
+STR:0.0862637362637(157/1820)

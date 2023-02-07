@@ -1,0 +1,47 @@
+This is pBibTeX, Version 0.99d-j0.34 (utf8.euc) (TeX Live 2022)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: y-kaimor_bthesis_ver5.aux
+The style file: junsrt.bst
+Database file #1: references.bib
+You've used 18 entries,
+            2270 wiz_defined-function locations,
+            645 strings with 7730 characters,
+and the built_in function-call counts, 7259 in all, are:
+= -- 604
+> -- 210
+< -- 27
++ -- 82
+- -- 64
+* -- 368
+:= -- 852
+add.period$ -- 57
+call.type$ -- 18
+change.case$ -- 19
+chr.to.int$ -- 0
+cite$ -- 18
+duplicate$ -- 456
+empty$ -- 697
+format.name$ -- 128
+if$ -- 1827
+int.to.chr$ -- 0
+int.to.str$ -- 18
+missing$ -- 17
+newline$ -- 93
+num.names$ -- 18
+pop$ -- 131
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 375
+stack$ -- 0
+substring$ -- 463
+swap$ -- 172
+text.length$ -- 27
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 66
+width$ -- 20
+write$ -- 203
+is.kanji.str$ -- 228
